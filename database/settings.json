@@ -1,1 +1,15 @@
-{}
+{
+  "selectedIndices": [
+    "NSE:NIFTY50-INDEX",
+    "BSE:SENSEX-INDEX",
+    "NSE:NIFTYBANK-INDEX",
+    "NSE:FINNIFTY-INDEX"
+  ],
+  "alertIndices": [
+    "NSE:NIFTY50-INDEX",
+    "BSE:SENSEX-INDEX",
+    "NSE:NIFTYBANK-INDEX",
+    "NSE:FINNIFTY-INDEX"
+  ],
+  "updatedAt": "2026-11-14T13:18:14.875Z"
+}
